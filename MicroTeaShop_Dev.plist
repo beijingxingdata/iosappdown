@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.xingdata.com/soft/apple/microteashop/dev/MicroTeaShop_Dev.ipa</string>
+					<string>http://www.xingdata.com/soft/microteashop/dev/apple/MicroTeaShop_Dev.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.xingdata.com/soft/apple/microteashop/icon.png</string>
+					<string>http://www.xingdata.com/soft/microteashop/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.xingdata.com/soft/apple/microteashop/icon.png</string>
+					<string>http://www.xingdata.com/soft/microteashop/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
