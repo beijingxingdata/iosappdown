@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.xingdata.com/soft/palmstore/dis/apple/PalmStore_Release.ipa</string>
+					<string>http://www.xingdata.com/soft/yuepao/dis/apple/YuePao_Release.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.xingdata.com/soft/palmstore/icon.png</string>
+					<string>http://www.xingdata.com/soft/yuepao/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,21 +27,21 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.xingdata.com/soft/palmstore/icon.png</string>
+					<string>http://www.xingdata.com/soft/yuepao/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.xingdata.PalmStore</string>
+				<string>com.xingdata.YuePao</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>掌中店航信版</string>
+				<string>约三两朋友，泡一壶好茶。</string>
 				<key>title</key>
-				<string>掌中店航信版</string>
+				<string>约泡</string>
 			</dict>
 		</dict>
 	</array>
